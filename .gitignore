@@ -1,0 +1,54 @@
+
+
+# backup and dat files
+*~
+*.bak
+.~lock*
+~$*
+\#*\#
+*.dat
+*.dat.gz
+*.npz
+.\#*
+*lyxformat*.lyx
+*.lyx.emergency
+*.bib.sav
+
+# old/ work/ and info/ directories
+old/
+work/
+info/
+
+# no CVS stuff
+CVS/
+.cvsignore
+
+# for latex
+*.aux
+*.log
+*.dvi
+*.nav
+*.idx
+*.snm
+*.toc
+*.out
+*.bbl
+*.blg
+*.ps
+*.end
+*-eps-converted-to.pdf
+*-blx.bib
+*.bcf
+*.run.xml
+*.lof
+*Notes.bib
+*.fdb_latexmk
+*.fls
+*.eps
+*.ilg
+*.ind
+
+
+.ipynb_checkpoints/
+Untitled*.ipynb
+__pycache__
